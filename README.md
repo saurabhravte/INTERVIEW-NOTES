@@ -2,4 +2,5 @@
 
 ## Topics
 ## 1. JavaScript
-## 1. DSA (May Be)
+## 2. DSA (May Be)
+## 3. JAVA
