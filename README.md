@@ -1,6 +1,11 @@
-## Notes to prepare for interviews
+# Interview Notes
+
+Personal notes I use to prepare for technical interviews, organized topic-wise.
 
 ## Topics
-## 1. JavaScript
-## 2. DSA (May Be)
-## 3. JAVA
+
+| # | Topic | Link |
+|---|-------|------|
+| 1 | JavaScript | [Open notes](https://github.com/saurabhravte/INTERVIEW-NOTES/tree/master/Javascript) |
+| 2 | DSA | Coming soon |
+| 3 | Java | Coming soon |
